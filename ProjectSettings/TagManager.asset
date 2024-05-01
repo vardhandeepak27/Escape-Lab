@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Interactable2
+  - Interactable3
+  - Interactable4
+  - Interactable5
+  - Interactable6
+  - Interactable7
+  - Interactable8
+  - Interactable9
+  - Interactable10
+  - Interactable11
+  - Interactable12
+  - Interactable13
+  - Interactable14
+  - Interactable15
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3695198659
+    locked: 0
+  - name: New Layer
+    uniqueID: 1309148177
+    locked: 0
+  - name: New Layer
+    uniqueID: 380309591
+    locked: 0
+  - name: 1
+    uniqueID: 685134725
+    locked: 0

@@ -1,0 +1,13 @@
+{
+"companyName": "ROP",
+"productName": "Escape Lab Second Version",
+"dataUrl": "escapeLabBuild.data.unityweb",
+"asmCodeUrl": "escapeLabBuild.asm.code.unityweb",
+"asmMemoryUrl": "escapeLabBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "escapeLabBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
